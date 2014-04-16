@@ -1,0 +1,83 @@
+
+Version: 2.0.16
+------------------------------------------
+CSS Additions.
+
+Version: 2.0.15
+------------------------------------------
+Added new skin.
+
+Version: 2.0.14
+------------------------------------------
+Added new skin.
+
+Version: 2.0.13
+------------------------------------------
+Added css for LTE8.
+
+Version: 2.0.12
+------------------------------------------
+Added css for LTE9.
+
+Version: 2.0.11
+------------------------------------------
+More child theme friendly.
+
+Version: 2.0.10
+------------------------------------------
+Added html5 shiv.
+
+Version: 2.0.9
+------------------------------------------
+Added new skin.
+
+Version: 2.0.8
+------------------------------------------
+Added new skin.
+
+Version: 2.0.7
+------------------------------------------
+Added new skin.
+
+Version: 2.0.6
+------------------------------------------
+Added new skin.
+
+Version: 2.0.5
+------------------------------------------
+Added new skin.
+
+Version: 2.0.4
+------------------------------------------
+Fixed issue with responsive menu not showing up on small screen devices.
+
+Version: 2.0.3
+------------------------------------------
+Modifications to theme options page, removed redirect to theme options on activation and fixed double date issue on posts.
+
+Version: 2.0.2
+------------------------------------------
+Added dropdown menu support.
+
+Version: 2.0.0
+------------------------------------------
+Converted theme to HTML5 & CSS3.
+
+
+Version: 1.0.10
+------------------------------------------
+Added on/off switches for quote sections.
+
+
+Version: 1.0.9
+------------------------------------------
+Added theme url.
+Made theme more child theme friendly and included a sample child theme.
+Changed theme option page wording.
+
+
+Version: 1.0.8
+------------------------------------------
+
+Added Translation files.
+Fixed Vertical scrol bar issue in chrome for social section.

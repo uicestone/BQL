@@ -1,8 +1,0 @@
-
-.main-navigation li, .footer-client-logos li {
-	*display: inline;
-	zoom: 1;
-}
-.screen-reader-text{
-	display:none;
-}
